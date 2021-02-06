@@ -1,6 +1,9 @@
-# COMPAS_OSAN
-COMPAS와 오산시에서 주최한 오산시-어린이 교통사고 위험지역 도출 분석과제에 참여\
-참가자 : skkuter\
-분석 tool: R\
-방법론 : Gboost, XGboost, RandomForest, SVM, Logistic Regression\
-시각화 : leaflat
+# COMPAS_OSAN(2020.12 ~ 2021.1)
+We participated in Osan Children's Traffic Accident Analysis Contest hosted by Compas and Osan City.\
+
+Team : skkuter(5 members)\
+Period : 2020.12.28 ~ 2021.01.28\
+Using tool: R\
+Visualization : leaflat\
+Analysis Method: Gboost, XGboost, RandomForest, SVM, Logistic Regression\
+
