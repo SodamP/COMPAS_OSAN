@@ -1,4 +1,4 @@
-# COMPAS_OSAN(2020.12 ~ 2021.1)
+# COMPAS_OSAN(2020.12 ~ 2021.01)
 We participated in Osan Children's Traffic Accident Analysis Contest hosted by Compas and Osan City.\
 
 Team : skkuter(5 members)\
